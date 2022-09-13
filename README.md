@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Atakan 👋 </h1>
 
-<h3 align="center"> 🌱 I’m currently learning Deep Learning and Artificial Intelligence </h3>
+<h3 align="center"> 🌱 I’m currently learning Deep Learning and Machine Learning </h3>
 
 <h3 align="center"> 💬 Ask me about anything </h3>
 
